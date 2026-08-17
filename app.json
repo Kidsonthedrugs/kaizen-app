@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Brain Root",
+    "slug": "brain-root",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#050F0A"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.brainroot.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#050F0A"
+      },
+      "package": "com.brainroot.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
