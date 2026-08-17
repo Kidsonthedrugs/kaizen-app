@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Brain Root",
-    "slug": "brain-root",
+    "name": "Kaizen",
+    "slug": "kaizen-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,13 +14,13 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.brainroot.app"
+      "bundleIdentifier": "com.kaizen.app"
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#050F0A"
       },
-      "package": "com.brainroot.app"
+      "package": "com.kaizen.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"

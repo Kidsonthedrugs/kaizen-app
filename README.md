@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 Brain Root
+# 🧠 Kaizen — 改善
 
-### Your Daily Habit Tracker & Social Media Monitor
+### Continuous Improvement Habit Tracker
 
 [![React Native](https://img.shields.io/badge/React_Native-0.79.5-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-53-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
@@ -11,9 +11,11 @@
 
 ---
 
-**Discipline is the bridge between goals and accomplishment.**
+**改善** = Continuous Improvement
 
-Brain Root helps you build lasting habits and control your screen time — all in one beautiful, distraction-free app.
+*"The Kaizen philosophy states that the best improvement is one that never stops."*
+
+Kaizen helps you build lasting habits and control your screen time — one small improvement at a time.
 
 </div>
 
@@ -61,10 +63,10 @@ Brain Root helps you build lasting habits and control your screen time — all i
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/brain-root.git
+git clone https://github.com/Kidsonthedrugs/kaizen-app.git
 
 # Navigate to project
-cd brain-root
+cd kaizen-app
 
 # Install dependencies
 npm install
@@ -83,7 +85,7 @@ npx expo start
 
 ## 🎨 Theme: Emerald Night
 
-Brain Root uses a premium dark theme inspired by luxury aesthetics:
+Kaizen uses a premium dark theme inspired by luxury aesthetics:
 
 | Color | Hex | Usage |
 |-------|-----|-------|
@@ -99,7 +101,7 @@ Brain Root uses a premium dark theme inspired by luxury aesthetics:
 ## 📁 Project Structure
 
 ```
-brain-root/
+kaizen-app/
 ├── App.tsx                 # Entry point
 ├── src/
 │   ├── theme/             # Color definitions
@@ -186,8 +188,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### 💎 Built with passion for productivity
+### 💎 Built with passion for continuous improvement
 
-**Star ⭐ this repo if you found it useful!**
+**改善 — One small step at a time**
+
+Star ⭐ this repo if you found it useful!
 
 </div>
